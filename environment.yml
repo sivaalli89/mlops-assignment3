@@ -1,0 +1,11 @@
+name: mlops2
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - openjdk=17
+  - pandas
+  - ipykernel
+  - pip
+  - pip:
+      - h2o

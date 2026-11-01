@@ -1,0 +1,12 @@
+mlflow==2.15.1
+--find-links https://pypi.python.org/simple/index.html
+--extra-index-url https://pypi.python.org/simple
+azureml-train-automl-runtime==1.61.0
+inference-schema
+xgboost<=1.5.2
+prophet==1.1.4
+azureml-interpret==1.61.0
+azureml-defaults==1.61.0
+pytorch-transformers==1.0.0
+spacy==3.7.4
+https://aka.ms/automl-resources/packages/en_core_web_sm-3.7.1.tar.gz

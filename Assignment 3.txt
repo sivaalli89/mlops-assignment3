@@ -1,0 +1,16 @@
+Use your chosen MLOps platform for the following -
+
+Load the (same) athletes dataset.
+With your dataset use AutoML to find the best model (if it is no-code, submit screenshots).
+Report any data insights from AutoML run.
+What are the reported top 5 features?
+What are the top 3 models per validation score when using
+all features
+only the top features (if you have to choose a number put in 3)
+What are the top 3 models per speed when using
+all features
+only the top features (if you have to choose a number put in 3)
+How does the top models compare to your previously developed model (in Part A) in terms of validation score and speed?
+Is your platform AutoML no-code/low-code/full-code and why?
+Repeat 2 - 5 using H2O AutoML (https://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.htmlLinks to an external site.). 
+Submit working code for the above, thru Github repo
